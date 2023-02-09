@@ -1,0 +1,20 @@
+body {
+    background:pink;
+    /* background-image: url("../img/gifje.webp");
+    background-size: 30px; */
+    
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#speciaal {
+    color: lime; 
+}
